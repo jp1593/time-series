@@ -1,4 +1,4 @@
-# time‑series
+# Time‑Series
 Repositorio de análisis de series temporales en Python
 
 ## 📌 Descripción

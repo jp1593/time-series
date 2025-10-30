@@ -8,7 +8,6 @@ mu = 0            # Mean of the noise
 sigma = 1         # Standard deviation of the noise
 np.random.seed(42) 
 
-
 # White Noise Serie
 X = np.random.normal(mu, sigma, T)
 
